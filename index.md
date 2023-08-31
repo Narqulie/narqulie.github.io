@@ -20,17 +20,19 @@ In addition to my technological pursuits, I pride myself on fostering positive r
 When I'm not in the tech realm, you might find me engaged in electronics projects, woodworking, or perhaps enjoying a calm day fishing. My affinity for art, renovation, and the continuous urge to discover keep me busy.
 
 Explore my portfolio to delve deeper into my professional journey, or [connect with me on LinkedIn](https://www.linkedin.com/in/jheaminoff/).
-
+  
+  
+  
+  
 --- 
 
-Name:
-Johan Henrik Edvard Aminoff (Preferred: Henrik).
-#### Background:  
-Enthusiastic self-taught programmer since the 1990s. Master's degree from the University of Lapland. Passionate about tech, learning, and the human side of technology.
-#### Professional Roles:  
-Spanning from HR, system specialist, robotic process automation, developer, to teaching.
-#### Tech Stack:  
-Proficient in Python, UiPath, SQL, REST APIs, Bash, Powershell. Knowledgeable in HR/payroll systems, IPAAS-platform FRENDS, Swift/iOS development, Robot Framework, and Selenium.
-#### Languages:   
-Fluent in Finnish, English and Swedish.
+    Johan Henrik Edvard Aminoff (Preferred: Henrik).
+    #### Background:  
+    Enthusiastic self-taught programmer since the 1990s. Master's degree from the University of Lapland. Passionate about tech, learning, and the human side of technology.
+    #### Professional Roles:  
+    Spanning from HR, system specialist, robotic process automation, developer, to teaching.
+    #### Tech Stack:  
+    Proficient in Python, UiPath, SQL, REST APIs, Bash, Powershell. Knowledgeable in HR/payroll systems, IPAAS-platform FRENDS, Swift/iOS development, Robot Framework, and Selenium.
+    #### Languages:   
+    Fluent in Finnish, English and Swedish.
 
