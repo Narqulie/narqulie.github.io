@@ -10,6 +10,7 @@ I have an interest in making my code readable and clean. I also like logging and
 
 ### [Python_eye](https://github.com/Narqulie/Python_eye)
 ##### Computer vision exercises using OpenCV and Python
+![Python_eye](/images/python_eye_ss.png)
 
 This is a test-case project for python and computer vision, using CV2. The program uses a simple Command Line Interface (CLI) for user interactions. It has multiple different functions:
 * Training a face recognition model with reference pictures
@@ -19,6 +20,7 @@ It's a living work in progress where I try out different computer vision related
 
 ### [Tuner](https://github.com/Narqulie/Tuner)
 ##### Audio processing exercises using Python
+![Tuner](/images/tuner_ss.png)
 
 Have YOU ever wanted a bad tuner for any instrument? 
 This is a simple tuner program that uses the microphone to listen to the instrument and displays the frequency of the sound. It can be used for the tuning of any instrument, but it's not very good at it. It's a fun little project that I made to learn about audio processing and FFT.
@@ -29,6 +31,7 @@ This is a simple tuner program that uses the microphone to listen to the instrum
 
 ### [Microphone_sensor_HA](https://github.com/Narqulie/Microphone_sensor_HA)
 ##### Audio processing and MQTT integration using Python
+![Microphone_sensor_HA](/images/microphone_ss.png)
 
 This Python script uses a microphone to detect noise levels and sends the status to an MQTT broker. The noise level status can then be used by Home Assistant or any other platform that can subscribe to the MQTT topic.
 * Real-time Noise Monitoring: The script harnesses the power of a microphone to continuously monitor and evaluate ambient noise levels.
@@ -36,3 +39,4 @@ This Python script uses a microphone to detect noise levels and sends the status
 * Adaptive Noise Detection: Instead of relying on a static threshold, the script uses a dynamic thresholding mechanism. It recalculates the noise threshold every 5 seconds. This ensures the system remains responsive to sudden changes in noise levels.
 * User-friendly Configuration and Logging: To enhance user experience, the script offers an easily editable configuration file for MQTT details. Additionally, all pivotal actions are meticulously logged in "mic_sensor.log", ensuring users have a transparent view of the script's operations.
 
+---

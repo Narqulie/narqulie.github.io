@@ -34,3 +34,5 @@ Spanning from HR, system specialist, robotic process automation, developer, to t
 Proficient in Python, UiPath, Knowledgeable in HR/payroll systems, FRENDS, Swift/iOS development, Robot Framework, SQL, REST APIs.
 **Languages:**  
 Fluent in Finnish, English and Swedish.
+
+---
