@@ -3,7 +3,7 @@ layout: home
 title: About Henrik Aminoff
 ---
 
-![Henrik Aminoff](/images/me.jpg)
+![Henrik Aminoff](/images/me.jpeg)
 
 Hi, I'm **Johan Henrik Edvard Aminoff**, but you can call me Henrik. I live in Tampere, Finland, and have devoted a significant part of my life to adult education, especially emphasizing IT and languages. With a Master's degree from the University of Lapland and a myriad of skills, I've interwoven my passions for teaching, technology, and continuous learning.
 
@@ -15,7 +15,3 @@ When I'm not in the tech realm, you might find me engaged in electronics project
 
 Explore my portfolio to delve deeper into my professional journey, or [connect with me on LinkedIn](https://www.linkedin.com/in/jheaminoff/).
 
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll"}
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jheaminoff"}
