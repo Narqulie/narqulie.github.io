@@ -6,6 +6,7 @@ header_pages:
   - index.md
   - portfolio.md
 
-social_links:
+minima:
+  social_links:
   - { platform: github,  user_url: "https://github.com/narqulie/narqulie"}
   - { platform: linkedin, user_url: "https://www.linkedin.com/in/jheaminoff"}
