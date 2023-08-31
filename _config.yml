@@ -1,11 +1,11 @@
-title: Portfolio
-description: JHEA
+title: JHEA
+description:
 url: https://narqulie.github.io
 theme: minima
 header_pages:
-  - about.md
+  - index.md
   - portfolio.md
-  
+
 social_links:
   - { platform: github,  user_url: "https://github.com/narqulie/narqulie"}
   - { platform: linkedin, user_url: "https://www.linkedin.com/in/jheaminoff"}
