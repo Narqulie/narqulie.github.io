@@ -19,12 +19,11 @@ I know Robot Framework for test automation, and I'm familiar with Selenium and P
 In addition to my technological pursuits, I pride myself on fostering positive relationships. I believe in the power of communication, evident from my fluency in Finnish and English, complemented by a proficient command of Swedish.
 When I'm not in the tech realm, you might find me engaged in electronics projects, woodworking, or perhaps enjoying a calm day fishing. I love playing videogames. My continuous urge to discover keeps me busy.
 
-Explore my portfolio to delve deeper into some of my projects as a sampling of my skills, or [connect with me on LinkedIn](https://www.linkedin.com/in/jheaminoff/).
-  
-  
-  
+Explore my portfolio to delve deeper into some of my projects as a sampling of my skills, or [connect with me on LinkedIn](https://www.linkedin.com/in/jheaminoff/).  
 
---- 
+
+---  
+
 
 Johan Henrik Edvard Aminoff  
 **Background:**  
