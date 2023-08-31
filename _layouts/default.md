@@ -15,7 +15,7 @@
 
 {{ content }}
 
-<!-- You can also include a footer here if you want, similar to the header. -->
+{% include footer.html %}
 
 </body>
 </html>
