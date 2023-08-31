@@ -3,4 +3,8 @@ layout: page
 title: Portfolio
 ---
 
-## RPA Developer
+## Python Projects
+
+Python_eye
+Tuner
+Microphone_sensor_HA
