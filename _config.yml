@@ -2,3 +2,6 @@ title: Portfolio
 description: A portfolio site for my projects
 url: https://narqulie.github.io
 theme: minima
+header_pages:
+  - about.md
+  - portfolio.md
