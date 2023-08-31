@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: About Henrik Aminoff
 ---
 
@@ -15,3 +15,4 @@ When I'm not in the tech realm, you might find me engaged in electronics project
 
 Explore my portfolio to delve deeper into my professional journey, or [connect with me on LinkedIn](https://www.linkedin.com/in/henrikaminoff).
 
+Find my contact details [here](/contact.md)
