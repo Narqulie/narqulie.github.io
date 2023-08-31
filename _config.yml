@@ -1,2 +1,4 @@
-name: Portfolio
+title: Portfolio
+description: A portfolio site for my projects
+url: https://narqulie.github.io
 theme: minima
