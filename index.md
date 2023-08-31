@@ -11,4 +11,3 @@ Hello! I'm [Your Name], a [Your Profession/Title]. Welcome to my online portfoli
 - Bullet point 2
 - Bullet point 3
 
-[Link to another page](/another-page.html)
