@@ -27,7 +27,7 @@ Explore my[portfolio](/portfolio.md) to delve deeper into some of my projects as
 
 Johan Henrik Edvard Aminoff  
 **Background:**  
-Enthusiastic self-taught programmer and all around IT-guy. Master's degree in Adult Education from the University of Lapland. Passionate about tech, learning, and the human side of technology.
+Enthusiastic self-taught programmer and all around IT-guy. Master's degree in Adult Education from the University of Lapland. Passionate about tech, learning, and the human side of technology.  
 **Professional Roles:**
 Spanning from HR, system specialist, robotic process automation, developer, to teaching.  
 **Tech Stack:**  
