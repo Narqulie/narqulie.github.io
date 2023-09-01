@@ -31,7 +31,7 @@ Enthusiastic self-taught programmer since the 1990s. Master's degree in Adult Ed
 **Professional Roles:**
 Spanning from HR, system specialist, robotic process automation, developer, to teaching.  
 **Tech Stack:**  
-Proficient in Python, UiPath, Knowledgeable in HR/payroll systems, FRENDS, Swift/iOS development, Robot Framework, SQL, REST APIs.
+Proficient in Python, UiPath, Knowledgeable in HR/payroll systems, FRENDS, Swift/iOS development, Robot Framework, SQL, REST APIs.  
 **Languages:**  
 Fluent in Finnish, English and Swedish.
 
