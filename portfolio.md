@@ -39,4 +39,18 @@ This Python script uses a microphone to detect noise levels and sends the status
 * Adaptive Noise Detection: Instead of relying on a static threshold, the script uses a dynamic thresholding mechanism. It recalculates the noise threshold every 5 seconds. This ensures the system remains responsive to sudden changes in noise levels.
 * User-friendly Configuration and Logging: To enhance user experience, the script offers an easily editable configuration file for MQTT details. Additionally, all pivotal actions are meticulously logged in "mic_sensor.log", ensuring users have a transparent view of the script's operations.
 
+## Electronics Projects:
+
+### [ESP-Home presence detection](https://github.com/Narqulie/LD2410_ESP8266_radar)
+##### Presence detection using ESP8266 and ESP-Home
+![ESP-Home presence detection](/images/esp_home_ld2410.jpeg)
+
+Venture into the realm of smart home integrations with this unique project that combines the precision of the LD2410 motion sensor with the versatility of the NodeMCU platform. The result is a powerful presence detection system that can be integrated into Home Assistant. This project is a great way to get started with ESPHome and ESP8266.
+
+* Sophisticated Motion Detection: Unlike traditional motion sensors, the LD2410 can differentiate between moving and stationary targets, offering a detailed perspective on activities in any space, very suitable for say, the dunny.
+* NodeMCU Integration: Using the open-source NodeMCU platform, this project streams real-time motion data, adaptable for alerts, device activations, or logging.
+* Native Home Assistant Support: Elevate your home automation experience with seamless integration into Home Assistant. This enables automatic task scheduling, alerts, or space monitoring based on the refined motion data.
+* Diverse Use-Cases: Envision enhanced security with motion-triggered alerts, energy conservation by regulating utilities based on room occupancy, or delve into data logging to discern activity patterns.
+* 3D Printed Enclosure: Accommodate the ESP8266 and LD2410 in a tailor-made 3D printed enclosure. Designed for optimal mounting and adaptability, the enclosure has options for supplementary sensors.
+
 ---
