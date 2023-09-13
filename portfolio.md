@@ -39,6 +39,21 @@ This Python script uses a microphone to detect noise levels and sends the status
 * Adaptive Noise Detection: Instead of relying on a static threshold, the script uses a dynamic thresholding mechanism. It recalculates the noise threshold every 5 seconds. This ensures the system remains responsive to sudden changes in noise levels.
 * User-friendly Configuration and Logging: To enhance user experience, the script offers an easily editable configuration file for MQTT details. Additionally, all pivotal actions are meticulously logged in "mic_sensor.log", ensuring users have a transparent view of the script's operations.
 
+### [Python Log Crawler](https://github.com/Narqulie/log_crawler)
+![Python_log_crawler](/images/log_crawler.png)
+
+This tool simplifies the task of searching specific terms within files, making data retrieval a 
+breeze. Useful for finding specific errors or events in log files, or for searching for specific
+data in large files. The script is designed to be easy to use, and it's built to handle unexpected
+file issues. It's a great tool for searching through log files, or any other files for that matter.
+
+* Command-Line Interface: Input the term, file extension, and directory. Opt for case-sensitive or insensitive searches based on your need.
+* Logging: Key actions and issues are logged for transparency and debugging.
+* Deep Search: The script efficiently searches throughout the chosen directory.
+* Case Sensitivity Choice: Allows for precise or general searches.
+* Error Handling: Built to handle unexpected file issues.
+
+
 ## Electronics Projects:
 
 ### [ESP-Home presence detection](https://github.com/Narqulie/LD2410_ESP8266_radar)
