@@ -53,6 +53,40 @@ file issues. It's a great tool for searching through log files, or any other fil
 * Case Sensitivity Choice: Allows for precise or general searches.
 * Error Handling: Built to handle unexpected file issues.
 
+---
+
+## Mastodon Bot Projects:
+
+Leveraging the power of OpenAI and Mastodon, an open source decentralized social network, I have created two intriguing bots that add a splash of whimsy and fantasy to the Mastodon community. By marrying OpenAI's cutting-edge language models with Mastodon's user-friendly platform, I've crafted bots that not only entertain but also showcase the potential of combining AI with social networking.
+
+### [Overheard Conversations](https://github.com/Narqulie/overheard_convos)
+##### Unveiling snippets of chatter from a parallel universe
+![Overheard_Conversations](/images/overheard_convos_ss.png)
+
+Dive into a world of quirky, imaginative conversations with the Overheard Conversations bot. Utilizing OpenAI to generate creative dialogues, this bot shares snippets of chatter from a parallel universe, sparking curiosity and amusement among Mastodon users.
+
+* **Randomized Dialogues**: The bot crafts randomized dialogues, delivering a fresh dose of whimsy with each post.
+* **Scheduled Posts**: With automated scheduling, the bot shares these fictional snippets at predetermined intervals, keeping the Mastodon community entertained round the clock.
+* **Interactive Engagement**: Users can interact with the bot, each interaction leading to a unique, generated response, fostering a dynamic engagement with the Mastodon community.
+* **OpenAI Integration**: Harnessing OpenAI's GPT-4, the bot generates captivating dialogues that are as humorous as they are bewildering.
+* **Customizable Themes**: Tailor the bot's output by tweaking the themes to match seasonal festivities or current events, adding a personalized touch to the parallel universe it portrays.
+
+### [Fantasy Weather](https://github.com/Narqulie/fantasy_weather)
+##### Your daily dose of fantastical meteorological musings
+![Fantasy_Weather](/images/fantasy_weather_ss.png)
+
+Tired of the same old weather updates? Fantasy Weather bot has you covered. This unique bot provides whimsical weather reports from a mystical, imaginative world, blending the mundanity of meteorological updates with the allure of fantasy.
+
+* **Imaginative Weather Forecasts**: Step into a realm where the weather forecasts are anything but ordinary, with magical meteorological phenomena that captivate the Mastodon community.
+* **Daily Updates**: The bot shares daily fantastical weather updates, offering a unique, imaginative spin on traditional weather reporting.
+* **User Interaction**: Engage with the bot to inquire about the weather in this fantastical world, with each interaction leading to a creatively generated response.
+* **OpenAI Integration**: Employing OpenAI's GPT-4, the bot concocts whimsical weather scenarios, showcasing the potential of AI in blending reality with fantasy.
+* **Expandable Fantasy Worlds**: The bot’s design allows for the creation of diverse fantasy worlds, each with its own distinct whimsical weather patterns, providing endless entertainment and engagement.
+
+Each of these bots serves as a testament to the boundless creativity that can be unleashed when combining the capabilities of OpenAI with the interactive platform of Mastodon. Through these projects, I continue to explore the intersection of AI, social networking, and imaginative storytelling.
+
+---
+
 
 ## Electronics Projects:
 
